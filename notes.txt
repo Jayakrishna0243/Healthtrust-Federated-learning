@@ -1,0 +1,9 @@
+first start Ganache Application then , 
+
+cd a:\4-2\HealthTrust-FL\blockchain
+truffle compile
+truffle migrate --reset --network development
+199 line for contract address in app.py
+
+cd a:\4-2\HealthTrust-FL\frontend
+streamlit run app.py

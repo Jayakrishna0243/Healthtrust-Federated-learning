@@ -1,0 +1,13 @@
+age,bp,sg,al,su,rbc,pc,pcc,ba,bgr,bu,sc,sod,pot,hemo,pcv,wc,rc,htn,dm,cad,appet,pe,ane,class
+45,80,1.02,1,0,normal,normal,notpresent,notpresent,110,28,1.1,138,4.3,15.0,44,7800,5.0,yes,no,no,good,no,no,notckd
+52,90,1.01,3,2,abnormal,abnormal,present,present,220,55,2.4,130,5.1,11.2,35,9800,4.2,yes,yes,no,poor,yes,yes,ckd
+37,70,1.02,0,0,normal,normal,notpresent,notpresent,95,18,0.8,141,4.0,16.4,48,6900,5.4,no,no,no,good,no,no,notckd
+61,90,1.01,4,3,abnormal,abnormal,present,present,340,72,3.2,126,5.7,9.6,30,12100,3.8,yes,yes,yes,poor,yes,yes,ckd
+29,70,1.02,0,0,normal,normal,notpresent,notpresent,88,14,0.7,143,4.1,16.8,50,6400,5.6,no,no,no,good,no,no,notckd
+56,80,1.01,2,1,abnormal,normal,notpresent,notpresent,180,48,2.0,132,4.9,11.8,36,9400,4.3,yes,yes,no,poor,yes,yes,ckd
+41,80,1.02,0,0,normal,normal,notpresent,notpresent,102,22,1.0,139,4.2,15.7,45,7500,5.1,no,no,no,good,no,no,notckd
+67,90,1.01,3,2,abnormal,abnormal,present,present,300,68,3.0,124,5.5,10.1,32,11500,3.9,yes,yes,yes,poor,yes,yes,ckd
+34,70,1.02,0,0,normal,normal,notpresent,notpresent,90,16,0.8,142,4.0,16.6,49,6600,5.5,no,no,no,good,no,no,notckd
+49,80,1.02,1,0,normal,normal,notpresent,notpresent,125,30,1.2,137,4.5,14.5,42,8000,5.0,yes,no,no,good,no,no,notckd
+58,90,1.01,2,1,abnormal,normal,present,notpresent,210,52,2.1,131,5.0,11.4,35,9700,4.2,yes,yes,no,poor,yes,yes,ckd
+32,70,1.02,0,0,normal,normal,notpresent,notpresent,92,15,0.7,143,4.1,16.9,50,6500,5.6,no,no,no,good,no,no,notckd
