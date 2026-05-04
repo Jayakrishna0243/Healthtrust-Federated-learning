@@ -1,0 +1,2 @@
+# Healthtrust-Federated-learning
+HealthTrust is a project that uses Federated Learning to improve healthcare systems while keeping patient data private and secure. Instead of sharing sensitive medical data to a central server, this system trains machine learning models locally on different devices or hospitals and only shares the learned updates.
